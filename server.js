@@ -1,5 +1,5 @@
 const express = require('express');
-const routes = require('./ORM-E-commerce-Back-End/routes');
+const routes = require('./routes');
 // import sequelize connection
 
 const app = express();

@@ -7,7 +7,6 @@ A back end for an E-Commerce site that uses Express.js API and Sequelize to inte
 ## Table of Contents
  * [Installation](#installation)
  * [Usage](#usage)
- * [Contributing](#contributing)
  * [Walkthrough](#walkthrough)
  * [License](#license)
  * [Questions](#questions)
@@ -22,17 +21,18 @@ A back end for an E-Commerce site that uses Express.js API and Sequelize to inte
   - Navigate to the root directory and use MySQL shell commands to create database using schema.sql
   - Exit MySQL shell and run 'npm run seed' to seed the file
   - Use node command 'npm start' to start the appliacation
-  - Go to Insomnia to test CRUD function for Products, Categories and Tags
-    - http://localhost:3001/api/<products/categories/tags>
-    - http://localhost:3001/api/<pr>/:id
-
-## Contributing
+  - Go to POSTMAN to test CRUD function for Products, Categories and Tags
+    - Follow the intruction given in the Walkthrough video provide down below
 
 ## Walkthrough
+- Part1: 
+     https://www.youtube.com/watch?v=IOjul0j1ak0
+- Part2: 
+     https://www.youtube.com/watch?v=MRURZjWXx_0
 
 ## License
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit).
 
 ## Questions
-Got questions? Check out my github profile: [GitHub](https://github.com/chunngaimo/ORM-E-commerce-Back-End)
+Link to repository on [GitHub](https://github.com/chunngaimo/ORM-E-commerce-Back-End)
 and Feel free to ask any questions and contact me at wjy16888888@gmail.com.
